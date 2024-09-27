@@ -28,14 +28,14 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Socials:</h3>
 <p align="left">
-<a href="mailto:2110030372cse@gmail.com" target="blank">
-  <img align="center" src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" alt="2110030372cse@gmail.com" height="30" width="30" />
-</a>
 <a href="https://linkedin.com/in/k-amith-a11144227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="k-amith-a11144227" height="30" width="40" /></a>
 <a href="https://instagram.com/k.amith7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k.amith7" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/k_amith1610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="k_amith1610" height="30" width="40" /></a>
+<a href="mailto:2110030372cse@gmail.com" target="blank">
+  <img align="center" src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" alt="2110030372cse@gmail.com" height="30" width="30" />
+</a>
 </p>
 
 <img align="right" height="170" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg"  />
