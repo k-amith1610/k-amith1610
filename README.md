@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm K AMITH</h1>
 <h3 align="center">An enthusiastic Full Stack Developer from India, specializing in stunning frontends.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=k-amith1610&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="k-amith1610" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=k-amith1610&label=Profile%20views&color=blueviolet&style=flat" alt="k-amith1610" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k-amith1610&theme=darkhub" alt="k-amith1610" /></a> </p>
 
