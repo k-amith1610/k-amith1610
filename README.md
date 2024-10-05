@@ -10,7 +10,9 @@
 
 - 🌱 I’m currently learning **React Native and Spring Boot, and exploring Three.js for 3D web experiences.**
 
-- 🔍 I am looking for jobs in **Software Development, Full Stack Development, Frontend Development, and Web Technologies.**
+- 🌟 Currently an **Intern at Ideyalabs.**
+
+- 🔍 I'm passionate about Software Development, Full Stack Development, Frontend Development, and Web Technologies.
 
 - 🤝 I’m looking for freelancing opportunities on **frontend development and full-stack development, specializing in React, MERN stack, Next.js, GSAP, and Tailwind CSS!**
 
