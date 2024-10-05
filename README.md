@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm K AMITH</h1>
-<h3 align="center">An enthusiastic Full Stack Developer from India, specializing in stunning frontends.</h3>
+<h3 align="center"><b>Intern at IdeyaLabs</b></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-amith1610&label=Profile%20views&color=blueviolet&style=flat" alt="k-amith1610" /> </p>
 
