@@ -8,13 +8,11 @@
 
 - 🔭 I’m currently working on **Portfolio Project**
 
-- 🌱 I’m currently learning **React Native and Spring Boot, and exploring Three.js for 3D web experiences.**
+- 🌱I'm learning **React with Rive** to create interactive websites, and I'm also exploring **Web3, Ethereum, and Solidity.**
 
 - 🌟 Currently an **Intern at Ideyalabs.**
 
 - 🔍 I'm passionate about Software Development, Full Stack Development, Frontend Development, and Web Technologies.
-
-- 🤝 I’m looking for freelancing opportunities on **frontend development and full-stack development, specializing in React, MERN stack, Next.js, GSAP, and Tailwind CSS!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/k-amith1610?tab=repositories](https://github.com/k-amith1610?tab=repositories)
 
