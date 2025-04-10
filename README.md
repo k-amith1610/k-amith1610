@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Portfolio Project**
 
-- 🌱I'm learning **React with Rive** to create interactive websites, and I'm also exploring **Web3, Ethereum, and Solidity.**
+- 🌱I'm learning **React with Rive** to create interactive websites, and **I'm further exploring Web3, Ethereum, and Solidity.**
 
 - 🌟 Currently an **Intern at Ideyalabs.**
 
