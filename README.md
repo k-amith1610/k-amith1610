@@ -10,7 +10,7 @@
 
 - 🌱I'm learning **React with Rive** to create interactive websites, and **I'm further exploring Web3, Ethereum, and Solidity.**
 
-- 🌟 Currently an **Intern at Ideyalabs.**
+- 🌟 Currently an **Associate Software Engineer at Ideyalabs.**
 
 - 🔍 I'm passionate about Software Development, Full Stack Development, Frontend Development, and Web Technologies.
 
